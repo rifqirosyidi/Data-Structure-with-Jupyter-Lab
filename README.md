@@ -1,5 +1,9 @@
 # data-structure-with-jupyter-lab
 
+Understanding data-structure using python and jupyter lab
+- cool
+
+# Issue
 Getting the message "Sorry, something went wrong. Reload?" when viewing an *.ipynb on a GitHub blob page.
 
 Probably a problem with the GitHub notebook viewing tool - sometimes github fails to render the ipynb notebooks, 
